@@ -209,6 +209,25 @@ The complete SQL queries used for the analysis are available here:
 **[View SQL Analysis](./bellabeat_analysis.sql)**
 
 
+## 📄 Case Study Report
+
+The complete Bellabeat case study documents the full data analysis process, from defining the business task and preparing the data to analyzing the results and developing business recommendations.
+
+### Report Contents
+
+The case study includes:
+
+- **Ask Phase** — Business task and stakeholders
+- **Prepare Phase** — Dataset description, data credibility, integrity, and limitations
+- **Process Phase** — Data cleaning, validation, and transformation
+- **Analyze Phase** — SQL-based analysis, business questions, and key findings
+- **Act Phase** — Business insights and marketing recommendations
+- **Conclusion** — Overall findings and implications for Bellabeat
+
+### Complete Case Study
+
+**[View the Complete Bellabeat Case Study PDF](./Bellabeat%20Smart%20Device%20Usage%20Analysis.pdf)**
+
 
 ## Business Recommendations
 
