@@ -138,6 +138,78 @@ The dashboard includes the following visualizations:
 ### Key Dashboard Insight
 
 Higher activity levels were associated with higher calorie expenditure, while users in the high-activity group averaged less sleep than users in the low-activity group. This suggests an opportunity for Bellabeat to promote a more balanced approach to physical activity and sleep.
+
+## 💻 SQL Analysis
+
+SQL was used in BigQuery to explore the cleaned Fitbit datasets, calculate summary statistics, identify activity patterns, and examine relationships between physical activity, calorie expenditure, and sleep.
+
+### Analysis Performed
+
+The SQL analysis addressed the following areas:
+
+- **Data Exploration**
+  - Verified the number of records in the `daily_activity` table.
+  - Confirmed 33 unique Fitbit users.
+  - Verified the analysis date range.
+
+- **Summary Statistics**
+  - Calculated average daily steps.
+  - Calculated average daily distance.
+  - Calculated average daily calorie expenditure.
+  - Examined average activity and sedentary minutes.
+
+- **Activity Trends**
+  - Compared average daily steps and calories across days of the week.
+  - Identified the days with the highest and lowest average activity.
+
+- **Sleep Analysis**
+  - Calculated average minutes asleep.
+  - Calculated average time spent in bed.
+  - Examined the difference between time in bed and actual sleep duration.
+
+- **Activity and Calories**
+  - Classified users into low, moderate, and high activity levels based on daily steps.
+  - Compared average steps and calorie expenditure across activity groups.
+
+- **Activity and Sleep**
+  - Joined activity and sleep data by user and date.
+  - Compared average sleep duration across different activity levels.
+
+### Key SQL Findings
+
+| Analysis | Result |
+|---|---:|
+| Unique users | 33 |
+| Average daily steps | 7,638 |
+| Average daily distance | 5.49 miles |
+| Average daily calories | 2,304 |
+| Average sleep duration | 419 minutes |
+| Average time in bed | 458 minutes |
+| Average awake time in bed | 39 minutes |
+
+### SQL Techniques Demonstrated
+
+- `SELECT`
+- `COUNT()`
+- `COUNT(DISTINCT)`
+- `AVG()`
+- `MIN()`
+- `MAX()`
+- `ROUND()`
+- `CASE WHEN`
+- `GROUP BY`
+- `ORDER BY`
+- `INNER JOIN`
+- Date filtering and transformation
+
+### SQL File
+
+The complete SQL queries used for the analysis are available here:
+
+**[View SQL Analysis](./bellabeat_analysis.sql)**
+
+
+
 ## Business Recommendations
 
 Based on the analysis, the following recommendations are proposed for Bellabeat:
