@@ -116,21 +116,28 @@ Users with higher activity levels did not necessarily sleep longer.
 
 Within this dataset, higher daily activity levels were associated with shorter average sleep duration. This represents an observed association and should not be interpreted as a causal relationship.
 
-## Tableau Dashboard
 
-An Tableau dashboard was created to communicate the key findings from the analysis.
+## 📊 Dashboard & Analysis
 
-The dashboard includes:
+### Tableau Dashboard
 
-- Average Daily Steps by Day of Week
-- Average Calories Burned by Activity Level
-- Average Sleep Duration by Activity Level
-- Summary of Key Business Findings
+The interactive Tableau dashboard presents the key findings from the Bellabeat analysis, focusing on user activity, calorie expenditure, sleep behavior, and activity patterns.
 
-> **Dashboard Preview**
+**[View the Interactive Tableau Dashboard](https://public.tableau.com/views/BellabeatSmartDeviceUsageAnalysis_17862825746700/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
-[View the Bellabeat Smart Device Usage Analysis Dashboard](https://public.tableau.com/views/BellabeatSmartDeviceUsageAnalysis_17862825746700/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+### Dashboard Components
 
+The dashboard includes the following visualizations:
+
+- **KPI Summary** — Average daily steps, calories burned, sleep duration, and daily distance.
+- **Average Daily Steps by Day of Week** — Identifies the days when users recorded the highest and lowest activity.
+- **Average Calories Burned by Activity Level** — Compares calorie expenditure across low, moderate, and high activity levels.
+- **Average Sleep Time vs Time in Bed** — Highlights the difference between time spent in bed and actual sleep duration.
+- **Average Sleep Duration by Activity Level** — Examines the relationship between physical activity levels and sleep duration.
+
+### Key Dashboard Insight
+
+Higher activity levels were associated with higher calorie expenditure, while users in the high-activity group averaged less sleep than users in the low-activity group. This suggests an opportunity for Bellabeat to promote a more balanced approach to physical activity and sleep.
 ## Business Recommendations
 
 Based on the analysis, the following recommendations are proposed for Bellabeat:
