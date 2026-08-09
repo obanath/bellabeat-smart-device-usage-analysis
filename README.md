@@ -118,7 +118,7 @@ Within this dataset, higher daily activity levels were associated with shorter a
 
 ## Tableau Dashboard
 
-An interactive Tableau dashboard was created to communicate the key findings from the analysis.
+An Tableau dashboard was created to communicate the key findings from the analysis.
 
 The dashboard includes:
 
@@ -129,7 +129,7 @@ The dashboard includes:
 
 > **Dashboard Preview**
 
-*(Insert a screenshot of your Tableau dashboard here after uploading it to the repository.)*
+[View the Bellabeat Smart Device Usage Analysis Dashboard](https://public.tableau.com/views/BellabeatSmartDeviceUsageAnalysis_17862825746700/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Business Recommendations
 
@@ -196,5 +196,3 @@ This repository contains:
 Thank you for taking the time to review my project. If you have any questions or feedback, feel free to connect with me.
 
 - **GitHub:** https://github.com/obanath
-- **LinkedIn:** *(Add your LinkedIn profile URL here)*
-- **Tableau Public:** *(Add your Tableau Public profile URL here after publishing your dashboard)*
