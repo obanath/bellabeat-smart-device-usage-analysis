@@ -1,6 +1,6 @@
 SQL QUERIES
 
-#To check the number of records in the daily_activity table
+##To check the number of records in the daily_activity table
 
 SELECT 
  COUNT(*)
