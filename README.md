@@ -206,7 +206,7 @@ The SQL analysis addressed the following areas:
 
 The complete SQL queries used for the analysis are available here:
 
-**[View SQL Analysis](./bellabeat_analysis.sql)**
+**[View SQL Analysis](./SQL_Analysis.md)**
 
 
 ## 📄 Case Study Report
