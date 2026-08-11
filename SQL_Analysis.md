@@ -6,7 +6,7 @@ SELECT
  COUNT(*)
 FROM  `capstone250.Fitbit.daily_activity`;
 
-# To check the number of unique users
+#To check the number of unique users
 SELECT  
   COUNT(DISTINCT id)
 FROM `capstone250.Fitbit.daily_activity`
